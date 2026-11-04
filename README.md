@@ -1,6 +1,6 @@
 # 💫 About Me
-🌱 Learning advanced compiler techniques and performance optimization
-📫 Contacts: [Telegram](https://t.me/ikujiko) | [Email](gavrikov.pa@phystech.edu)
+🌱 Learning advanced compiler techniques and performance optimization\
+📫 Contacts: [Telegram](https://t.me/ikujiko) | [Email](gavrikov.pa@phystech.edu)\
 📄 [My Resume/CV](https://github.com/xmickos/CV/blob/e8431643f5b35ead2278940024b0f47d34920c39/cv_eng.pdf)
 
 ## 🚀 Featured Projects
